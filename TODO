@@ -1,0 +1,9 @@
+:: prestaging tasklist :
+
+* New Nginx src && and . src merging (master=>beta)
+* SSL stapling configs (conf/ssl)
+* SSL sec configs (conf/ssl)
+* SSL scripts (.srt,.key - with bash)
+* Autotest's && autoconfigure (bash)
+* Debianization && BSDlisation (unredhatisation)
+* Code review (unratiosation + desinsection)
