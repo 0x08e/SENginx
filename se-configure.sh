@@ -44,6 +44,7 @@ fi
     --add-module=${NEU_DIR}/ngx_http_neteye_security \
     --add-module=${TRD_DIR}/naxsi/naxsi_src \
     --add-module=${TRD_DIR}/nginx-upstream-fair \
+    --add-module=${TRD_DIR}/limit-traffic-rate-module \
     --add-module=${TRD_DIR}/headers-more-nginx-module \
     --add-module=${TRD_DIR}/ngx_http_substitutions_filter_module \
     --add-module=${TRD_DIR}/nginx_tcp_proxy_module \
