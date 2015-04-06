@@ -1,0 +1,4 @@
+* add spdy support by default
+* add traffic limit module by default
+* fix "proxy_ssl_certificate" directive
+
